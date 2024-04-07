@@ -1,0 +1,11 @@
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\bin\Debug\net7.0\Dtos.deps.json
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\bin\Debug\net7.0\Dtos.dll
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\bin\Debug\net7.0\Dtos.pdb
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\obj\Debug\net7.0\Dtos.dll
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\obj\Debug\net7.0\Dtos.pdb
+C:\Users\Nasirov\source\repos\UniversitySystem\Dtos\obj\Debug\net7.0\ref\Dtos.dll
